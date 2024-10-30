@@ -1,0 +1,68 @@
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\appsettings.json
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.exe
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.deps.json
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.runtimeconfig.json
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.pdb
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.csproj.AssemblyReference.cache
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.AssemblyInfoInputs.cache
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.AssemblyInfo.cs
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.csproj.CoreCompileInputs.cache
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.Learn .NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Learn .NET.props
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Learn .NET.props
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Learn .NET.props
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\scopedcss\bundle\Learn .NET.styles.css
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.csproj.Up2Date
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\refint\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.pdb
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.genruntimeconfig.cache
+C:\Users\imadb\OneDrive\Bureau\Learn .NET\Learn .NET\obj\Debug\net8.0\ref\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\appsettings.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.exe
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.deps.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.runtimeconfig.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Learn .NET.pdb
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.csproj.AssemblyReference.cache
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.AssemblyInfoInputs.cache
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.AssemblyInfo.cs
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.csproj.CoreCompileInputs.cache
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.sourcelink.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.Learn .NET.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.build.Learn .NET.props
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Learn .NET.props
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Learn .NET.props
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\scopedcss\bundle\Learn .NET.styles.css
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.csproj.Up2Date
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\refint\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.pdb
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\Learn .NET.genruntimeconfig.cache
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\obj\Debug\net8.0\ref\Learn .NET.dll
+C:\Users\imadb\OneDrive\Bureau\Learn-.NET\Learn .NET\Learn .NET\bin\Debug\net8.0\ appsettings.json
